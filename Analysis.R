@@ -3,8 +3,11 @@ library(tidyverse)
 library(patchwork)
 library(gt)
 
+<<<<<<< HEAD
 #This script generates the figures used in the report.
 
+=======
+>>>>>>> 79bd6376165b6175c2dd2cd1cfb477d4dedd011e
 so_vs_ha <- read_csv("Data/socialref_vs_hardtarg.csv")
 so_vs_hu <- read_csv("Data/socsciref_vs_humantarg.csv")
 
